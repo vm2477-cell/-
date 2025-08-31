@@ -1,0 +1,5 @@
+{
+  "name": "Logistics Schedule Planner",
+  "description": "A mobile-first, offline-capable web application for planning daily logistics and delivery schedules, inspired by a spreadsheet layout. It allows users to manage stops, calculate travel and work times automatically, and save their schedule locally in the browser.",
+  "requestFramePermissions": []
+}
